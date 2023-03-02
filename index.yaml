@@ -3,7 +3,7 @@ entries:
   cm-go-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-03-02T16:17:34.974065888Z"
+    created: "2023-03-02T17:37:20.13484384Z"
     description: A Helm chart for Kubernetes
     digest: 6c1080e5e18b1600779657a384eccffa5ffa734990ef3017ed5dfc0a85fcf0b0
     name: cm-go-chart
@@ -13,7 +13,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-02T16:17:34.97362708Z"
+    created: "2023-03-02T17:37:20.134233543Z"
     description: A Helm chart for Kubernetes
     digest: 9860b64aa2d4a5a9e3db60bde0b80782c7f03708ca603e383ddf2051125d2bdc
     name: cm-go-chart
@@ -23,12 +23,17 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-03-02T16:17:34.972956068Z"
+    created: "2023-03-02T17:37:20.133628845Z"
+    dependencies:
+    - condition: mysql.enabled
+      name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.5.1
     description: A Helm chart for Kubernetes
-    digest: 4b1f4f2c2ec13f59db441aac3d956e7e5079105d47d1c70ed2e4741eb4ce6203
+    digest: e286cac8037ab17b319637bea8a113934f4bef742a5d007576fc57b8cb415cd4
     name: cm-go-chart
     type: application
     urls:
     - cm-go-chart/cm-go-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2023-03-02T16:17:34.972138153Z"
+generated: "2023-03-02T17:37:20.129038065Z"
