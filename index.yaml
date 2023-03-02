@@ -3,12 +3,12 @@ entries:
   cm-go-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-27T18:53:01.856024284Z"
+    created: "2023-03-02T12:36:57.401124918Z"
     description: A Helm chart for Kubernetes
-    digest: 1851009f50d99df9dac028948dbda67acb66fc0f6cc46a2d3a6b266330e28c04
+    digest: 63e4fbfbd46d8f2c8ead2ae27de1b3cb8aded693461fce4f8dfcbe2ef2a42af2
     name: cm-go-chart
     type: application
     urls:
     - cm-go-chart/cm-go-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2023-02-27T18:53:01.855415276Z"
+generated: "2023-03-02T12:36:57.400489906Z"
