@@ -3,7 +3,7 @@ entries:
   cm-go-chart:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-04-13T18:22:36.531978861Z"
+    created: "2023-04-13T18:38:30.902545493Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -18,7 +18,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-04-13T18:22:36.52778331Z"
+    created: "2023-04-13T18:38:30.897476202Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -33,7 +33,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T18:22:36.52354576Z"
+    created: "2023-04-13T18:38:30.893322209Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -48,7 +48,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T18:22:36.518043724Z"
+    created: "2023-04-13T18:38:30.88739592Z"
     description: A Helm chart for Kubernetes
     digest: 6c1080e5e18b1600779657a384eccffa5ffa734990ef3017ed5dfc0a85fcf0b0
     name: cm-go-chart
@@ -58,7 +58,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-13T18:22:36.517592629Z"
+    created: "2023-04-13T18:38:30.886984921Z"
     description: A Helm chart for Kubernetes
     digest: 9860b64aa2d4a5a9e3db60bde0b80782c7f03708ca603e383ddf2051125d2bdc
     name: cm-go-chart
@@ -68,7 +68,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T18:22:36.516790639Z"
+    created: "2023-04-13T18:38:30.886557021Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -84,12 +84,12 @@ entries:
   cm-ui-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T18:22:36.532432655Z"
+    created: "2023-04-13T18:38:30.902983993Z"
     description: A Helm chart for Kubernetes
-    digest: b56b6c3b398e1bf7983a520440dc1d7f8bb29b4e89906ff995ec11c0fd8d77ee
+    digest: c487e44763374ebf8bd1c8391b5052df855e89eea70cb3c2739c299547223b74
     name: cm-ui-chart
     type: application
     urls:
     - cm-ui-chart/cm-ui-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-13T18:22:36.512318191Z"
+generated: "2023-04-13T18:38:30.882054329Z"
