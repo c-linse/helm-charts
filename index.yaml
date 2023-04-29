@@ -3,7 +3,7 @@ entries:
   cm-go-chart:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-04-27T20:27:01.684019596Z"
+    created: "2023-04-29T17:00:27.653734953Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -18,7 +18,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-04-27T20:27:01.675418565Z"
+    created: "2023-04-29T17:00:27.649905734Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -33,7 +33,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2023-04-27T20:27:01.669563744Z"
+    created: "2023-04-29T17:00:27.644183306Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -48,7 +48,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-04-27T20:27:01.663773023Z"
+    created: "2023-04-29T17:00:27.640167087Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -63,7 +63,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-04-27T20:27:01.658304703Z"
+    created: "2023-04-29T17:00:27.635349063Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -78,7 +78,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-27T20:27:01.650918076Z"
+    created: "2023-04-29T17:00:27.630436539Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -93,8 +93,18 @@ entries:
     version: 1.0.0
   cm-ui-chart:
   - apiVersion: v2
+    appVersion: 1.0.7
+    created: "2023-04-29T17:00:27.657040869Z"
+    description: A Helm chart for Kubernetes
+    digest: e0b4ab0e191affd075d30fbdcaa2570d20d5bbf10e087f5f1499878099924308
+    name: cm-ui-chart
+    type: application
+    urls:
+    - cm-ui-chart/cm-ui-chart-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v2
     appVersion: 1.0.6
-    created: "2023-04-27T20:27:01.689729117Z"
+    created: "2023-04-29T17:00:27.656640267Z"
     description: A Helm chart for Kubernetes
     digest: 29a45bcbf75637f1f9e585270e98a34b4332534bfd84c5c1d423197f3c9ff068
     name: cm-ui-chart
@@ -104,7 +114,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-04-27T20:27:01.688019011Z"
+    created: "2023-04-29T17:00:27.656236765Z"
     description: A Helm chart for Kubernetes
     digest: 1e78917b4fec1edb7a9d00d44d49d27729a60791057aa901d4326da5a199ce9e
     name: cm-ui-chart
@@ -114,7 +124,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-04-27T20:27:01.687390609Z"
+    created: "2023-04-29T17:00:27.655828363Z"
     description: A Helm chart for Kubernetes
     digest: 047865ea20154887431fd4464291a8a31cb7eb57bd5841c278559a29e8d51c6e
     name: cm-ui-chart
@@ -124,7 +134,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2023-04-27T20:27:01.686807706Z"
+    created: "2023-04-29T17:00:27.655390961Z"
     description: A Helm chart for Kubernetes
     digest: cae0d27a53e222176bedaa88481aaed0563db869684532033a93e695726a9851
     name: cm-ui-chart
@@ -134,7 +144,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-04-27T20:27:01.686155804Z"
+    created: "2023-04-29T17:00:27.654981259Z"
     description: A Helm chart for Kubernetes
     digest: 415d04f9eb1c8217801da60011eaf8f2f8afb7898d64c8fffad4c0db656847fa
     name: cm-ui-chart
@@ -144,7 +154,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-04-27T20:27:01.685346801Z"
+    created: "2023-04-29T17:00:27.654571957Z"
     description: A Helm chart for Kubernetes
     digest: 34699fd27886616917fb63fdd7514455d6b87fe2cad8e600cd40beb4409ce174
     name: cm-ui-chart
@@ -154,7 +164,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-27T20:27:01.684664899Z"
+    created: "2023-04-29T17:00:27.654162455Z"
     description: A Helm chart for Kubernetes
     digest: d30de2131aedb2a31af770f4897d61680932766f9d8aaea3b2f066064bf225c0
     name: cm-ui-chart
@@ -162,4 +172,4 @@ entries:
     urls:
     - cm-ui-chart/cm-ui-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-27T20:27:01.645555657Z"
+generated: "2023-04-29T17:00:27.626314119Z"
