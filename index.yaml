@@ -3,7 +3,7 @@ entries:
   cm-go-chart:
   - apiVersion: v2
     appVersion: 1.6.2
-    created: "2025-10-12T09:36:58.227920068Z"
+    created: "2025-10-13T09:41:38.38403866Z"
     description: A Helm chart for Kubernetes
     digest: 47fb18a140ddf09eb3288ab66b741db28e2f40e7ba36bc501be40de861a26c5d
     name: cm-go-chart
@@ -13,7 +13,7 @@ entries:
     version: 1.6.2
   - apiVersion: v2
     appVersion: 1.6.1
-    created: "2025-10-12T09:36:58.227609286Z"
+    created: "2025-10-13T09:41:38.383723231Z"
     description: A Helm chart for Kubernetes
     digest: 7728981b1819d39d03711f65a736a1d1169535674ede666c7189ce663550d650
     name: cm-go-chart
@@ -23,7 +23,7 @@ entries:
     version: 1.6.1
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2025-10-12T09:36:58.227262257Z"
+    created: "2025-10-13T09:41:38.383404385Z"
     description: A Helm chart for Kubernetes
     digest: 534b9a3a8c13b167cfb81aa4f35bd4202eed63539611128a04acfb3352ea53b3
     name: cm-go-chart
@@ -33,7 +33,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2025-10-12T09:36:58.226947036Z"
+    created: "2025-10-13T09:41:38.383022823Z"
     description: A Helm chart for Kubernetes
     digest: a56bc237c0d9adee0cd9b4c3ba3650334b3005b876da3900248730febf629cf1
     name: cm-go-chart
@@ -43,7 +43,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2025-10-12T09:36:58.226611047Z"
+    created: "2025-10-13T09:41:38.38268958Z"
     description: A Helm chart for Kubernetes
     digest: fecd5743f8f0ace2ed7020603a08680d5ed007ededd0555850559ff789067467
     name: cm-go-chart
@@ -53,7 +53,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.2
-    created: "2025-10-12T09:36:58.226238971Z"
+    created: "2025-10-13T09:41:38.381745819Z"
     description: A Helm chart for Kubernetes
     digest: d8384bc487391acadb60c8cd3779c4e3bf3a6bfaf46d645b8f84a266d078e4be
     name: cm-go-chart
@@ -63,7 +63,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2025-10-12T09:36:58.225891831Z"
+    created: "2025-10-13T09:41:38.381091277Z"
     description: A Helm chart for Kubernetes
     digest: 1b8fee2fba215a15c9d01f1023cc0bbae8a5488c9e90738a24e4d513326cf1e9
     name: cm-go-chart
@@ -73,7 +73,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-10-12T09:36:58.225271851Z"
+    created: "2025-10-13T09:41:38.380427467Z"
     description: A Helm chart for Kubernetes
     digest: 51d4e70e87355626bd01517c60da022c74f3796487d93cca26d6cfe4cdd297ea
     name: cm-go-chart
@@ -83,7 +83,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2025-10-12T09:36:58.224540191Z"
+    created: "2025-10-13T09:41:38.379629365Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -98,7 +98,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.0.16
-    created: "2025-10-12T09:36:58.194294918Z"
+    created: "2025-10-13T09:41:38.349731278Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -113,7 +113,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 1.0.15
-    created: "2025-10-12T09:36:58.191474669Z"
+    created: "2025-10-13T09:41:38.345794886Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -128,7 +128,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2025-10-12T09:36:58.187096942Z"
+    created: "2025-10-13T09:41:38.342774916Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -143,7 +143,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.0.13
-    created: "2025-10-12T09:36:58.184271543Z"
+    created: "2025-10-13T09:41:38.339971591Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -158,7 +158,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2025-10-12T09:36:58.180349973Z"
+    created: "2025-10-13T09:41:38.33608384Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -173,7 +173,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2025-10-12T09:36:58.177227738Z"
+    created: "2025-10-13T09:41:38.332944587Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -188,7 +188,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2025-10-12T09:36:58.174491196Z"
+    created: "2025-10-13T09:41:38.330122717Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -203,7 +203,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2025-10-12T09:36:58.220802212Z"
+    created: "2025-10-13T09:41:38.376860574Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -218,7 +218,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2025-10-12T09:36:58.218031596Z"
+    created: "2025-10-13T09:41:38.373940671Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -233,7 +233,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2025-10-12T09:36:58.214231986Z"
+    created: "2025-10-13T09:41:38.369396396Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -248,7 +248,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2025-10-12T09:36:58.211275189Z"
+    created: "2025-10-13T09:41:38.366574125Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -263,7 +263,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2025-10-12T09:36:58.208523569Z"
+    created: "2025-10-13T09:41:38.362653561Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -278,7 +278,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2025-10-12T09:36:58.204113977Z"
+    created: "2025-10-13T09:41:38.359619807Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -293,7 +293,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2025-10-12T09:36:58.201285894Z"
+    created: "2025-10-13T09:41:38.356859712Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -308,7 +308,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-10-12T09:36:58.197602386Z"
+    created: "2025-10-13T09:41:38.352464883Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -323,7 +323,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-10-12T09:36:58.170050494Z"
+    created: "2025-10-13T09:41:38.325624257Z"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -338,7 +338,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-10-12T09:36:58.167119167Z"
+    created: "2025-10-13T09:41:38.322617282Z"
     description: A Helm chart for Kubernetes
     digest: a60d4fd443dcc8cf72b8f71e5492c8a9a7e425e3d1e70a9ee09a3387901eb92c
     name: cm-go-chart
@@ -349,7 +349,7 @@ entries:
   cm-ui-chart:
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2025-10-12T09:36:58.245630007Z"
+    created: "2025-10-13T09:41:38.402180321Z"
     description: A Helm chart for Kubernetes
     digest: 8aa20ce1e18979b65f3bef6bea1093a85e46b6b3bc28210d88c4ce225f231ac2
     name: cm-ui-chart
@@ -359,7 +359,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2025-10-12T09:36:58.245315549Z"
+    created: "2025-10-13T09:41:38.401855675Z"
     description: A Helm chart for Kubernetes
     digest: d327130befc6fc7a4fb809adcf08023061648f9305284b90bcc3ca53a60f5667
     name: cm-ui-chart
@@ -369,7 +369,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2025-10-12T09:36:58.245018192Z"
+    created: "2025-10-13T09:41:38.401550425Z"
     description: A Helm chart for Kubernetes
     digest: 0eea117c8647211cea841a3c863af80dc1e5d4f41765721a1031bee2408b2b41
     name: cm-ui-chart
@@ -379,7 +379,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-10-12T09:36:58.244723751Z"
+    created: "2025-10-13T09:41:38.401242559Z"
     description: A Helm chart for Kubernetes
     digest: 0ff60a69aacddf099a41d0ebd08cd905d89d17c2929a091a20044bbac6fb4791
     name: cm-ui-chart
@@ -389,7 +389,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2025-10-12T09:36:58.244411286Z"
+    created: "2025-10-13T09:41:38.400881245Z"
     description: A Helm chart for Kubernetes
     digest: 0aab9e3ef8cb9c11a3fb9ffde2208bc06f7fb5b5c90e4ee6b3b6b34764413da0
     name: cm-ui-chart
@@ -399,7 +399,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.15
-    created: "2025-10-12T09:36:58.240789745Z"
+    created: "2025-10-13T09:41:38.396954271Z"
     description: A Helm chart for Kubernetes
     digest: 3688661eba2e550de38513f6a75f3e4cb85a6424f3c825bad8b569d7a9a0a6d2
     name: cm-ui-chart
@@ -409,7 +409,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2025-10-12T09:36:58.240099092Z"
+    created: "2025-10-13T09:41:38.396078487Z"
     description: A Helm chart for Kubernetes
     digest: 6786bb30559b3e1f776140daae836f8538436993c8c99a0096c739f302077f98
     name: cm-ui-chart
@@ -419,7 +419,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2025-10-12T09:36:58.239186176Z"
+    created: "2025-10-13T09:41:38.395775Z"
     description: A Helm chart for Kubernetes
     digest: 53b7e7f8ae434e2b6ac9df767fe01869e178da75b62572e8f5527c6fcdada14d
     name: cm-ui-chart
@@ -429,7 +429,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2025-10-12T09:36:58.238885122Z"
+    created: "2025-10-13T09:41:38.395453299Z"
     description: A Helm chart for Kubernetes
     digest: 8a7eac2f3be37f17640bee4442aaa7fefc9f27d541c41cec36dd13999eb97e54
     name: cm-ui-chart
@@ -439,7 +439,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2025-10-12T09:36:58.238562569Z"
+    created: "2025-10-13T09:41:38.39510548Z"
     description: A Helm chart for Kubernetes
     digest: 3df62c217f63004936949714c48e374552d51dd362dc9537b1dafda36c0c5bc7
     name: cm-ui-chart
@@ -449,7 +449,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2025-10-12T09:36:58.238252218Z"
+    created: "2025-10-13T09:41:38.39480073Z"
     description: A Helm chart for Kubernetes
     digest: fb8d3228a5b7e0bb7ede2705a8de70ecc6e958d8cce77aa597559768dde4aa01
     name: cm-ui-chart
@@ -459,7 +459,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2025-10-12T09:36:58.244073033Z"
+    created: "2025-10-13T09:41:38.400576636Z"
     description: A Helm chart for Kubernetes
     digest: ec7e2faaed3716320d0ef7a156bd4a5cac193299ce89aff314ee3f7ab9bc50e7
     name: cm-ui-chart
@@ -469,7 +469,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2025-10-12T09:36:58.243743817Z"
+    created: "2025-10-13T09:41:38.400271456Z"
     description: A Helm chart for Kubernetes
     digest: a671a3935bca86a38761c2ace56734588b7ac78406d827e013e6af1679bc32bd
     name: cm-ui-chart
@@ -479,7 +479,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2025-10-12T09:36:58.243427124Z"
+    created: "2025-10-13T09:41:38.399944896Z"
     description: A Helm chart for Kubernetes
     digest: 58485f93b0732e4d7d8bafb25b82990b1a8fcaa153cce043fbbe8cc5c5eecdcb
     name: cm-ui-chart
@@ -489,7 +489,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2025-10-12T09:36:58.24307214Z"
+    created: "2025-10-13T09:41:38.399613267Z"
     description: A Helm chart for Kubernetes
     digest: 79b7a2e477e126aff70a3c64be7ca9dcfd3f3c02b4fb3baf9d180744783cb8ae
     name: cm-ui-chart
@@ -499,7 +499,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2025-10-12T09:36:58.242768251Z"
+    created: "2025-10-13T09:41:38.399295223Z"
     description: A Helm chart for Kubernetes
     digest: 2ab83aa42798fd75b1a00f0d94a4e84a2ccefa4b41c648819a3c5b45b369fdda
     name: cm-ui-chart
@@ -509,7 +509,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2025-10-12T09:36:58.242457108Z"
+    created: "2025-10-13T09:41:38.398945429Z"
     description: A Helm chart for Kubernetes
     digest: b7c258cc628e586e3c20e5966af7a3fd1b32e5ef3d5245349d85f3de84825dac
     name: cm-ui-chart
@@ -519,7 +519,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2025-10-12T09:36:58.242105791Z"
+    created: "2025-10-13T09:41:38.398605184Z"
     description: A Helm chart for Kubernetes
     digest: 2b02969ff386e7a281948ae4e5dad51b43e8b5c909df71d2edc483ff114eeb2e
     name: cm-ui-chart
@@ -529,7 +529,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2025-10-12T09:36:58.24171521Z"
+    created: "2025-10-13T09:41:38.397627358Z"
     description: A Helm chart for Kubernetes
     digest: 32099aed9cbf7b02e20d9e257d514afa4d137036f0cb47d7e00f0fe342a0cc8f
     name: cm-ui-chart
@@ -539,7 +539,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2025-10-12T09:36:58.237957466Z"
+    created: "2025-10-13T09:41:38.394467047Z"
     description: A Helm chart for Kubernetes
     digest: ad20da83028aaee4a13da7f10b905419dbe6b2bbf03c8519680852e2427bbcd2
     name: cm-ui-chart
@@ -549,7 +549,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-10-12T09:36:58.237654739Z"
+    created: "2025-10-13T09:41:38.394097217Z"
     description: A Helm chart for Kubernetes
     digest: f99f79ed755fd08b064cf954510297a88977db7c957111dfcc3ad408dcbeec8e
     name: cm-ui-chart
@@ -559,7 +559,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.26
-    created: "2025-10-12T09:36:58.235188283Z"
+    created: "2025-10-13T09:41:38.391615281Z"
     description: A Helm chart for Kubernetes
     digest: 7e4cd3144e40d67b51d7e94357919eea6c48a411279f6e624de263a270cf037e
     name: cm-ui-chart
@@ -569,7 +569,7 @@ entries:
     version: 1.0.26
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2025-10-12T09:36:58.234886348Z"
+    created: "2025-10-13T09:41:38.391287389Z"
     description: A Helm chart for Kubernetes
     digest: 3160d7aebec2bc65be67a4c9ba8a725e9ae5042c88061572bd41f31500153fb0
     name: cm-ui-chart
@@ -579,7 +579,7 @@ entries:
     version: 1.0.24
   - apiVersion: v2
     appVersion: 1.0.23
-    created: "2025-10-12T09:36:58.234577199Z"
+    created: "2025-10-13T09:41:38.390898833Z"
     description: A Helm chart for Kubernetes
     digest: 7ca88d80808e0c5fb41562441d832db76e783726ebb6057275f8b8afe5747abf
     name: cm-ui-chart
@@ -589,7 +589,7 @@ entries:
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.0.22
-    created: "2025-10-12T09:36:58.234219079Z"
+    created: "2025-10-13T09:41:38.39057049Z"
     description: A Helm chart for Kubernetes
     digest: 78af5af398761daec47b039d73ade4b94b47b1718f314bca764cbd4bb4d5cd95
     name: cm-ui-chart
@@ -599,7 +599,7 @@ entries:
     version: 1.0.22
   - apiVersion: v2
     appVersion: 1.0.21
-    created: "2025-10-12T09:36:58.233440909Z"
+    created: "2025-10-13T09:41:38.389599797Z"
     description: A Helm chart for Kubernetes
     digest: 0da54d1c5de1527a38bb7d9b93dfdc3ad09b0691ed788ffab404e5f524cde690
     name: cm-ui-chart
@@ -609,7 +609,7 @@ entries:
     version: 1.0.21
   - apiVersion: v2
     appVersion: 1.0.20
-    created: "2025-10-12T09:36:58.232806712Z"
+    created: "2025-10-13T09:41:38.388918325Z"
     description: A Helm chart for Kubernetes
     digest: ce8c792307723cb38b07236823cf60370f4530487808e76064fcc59b5fc7d2e0
     name: cm-ui-chart
@@ -619,7 +619,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 1.0.19
-    created: "2025-10-12T09:36:58.231591951Z"
+    created: "2025-10-13T09:41:38.38772817Z"
     description: A Helm chart for Kubernetes
     digest: d0e69adc0abeb2abf8b233714de5d99a83868094af92c7b6743123c1d1567fed
     name: cm-ui-chart
@@ -629,7 +629,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.0.18
-    created: "2025-10-12T09:36:58.231264749Z"
+    created: "2025-10-13T09:41:38.387434622Z"
     description: A Helm chart for Kubernetes
     digest: 3fda75199f48ceb133954d814c37ec8f00a2e40ca4b64ca27a3abd3a36b2f225
     name: cm-ui-chart
@@ -639,7 +639,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 1.0.17
-    created: "2025-10-12T09:36:58.230975757Z"
+    created: "2025-10-13T09:41:38.387089237Z"
     description: A Helm chart for Kubernetes
     digest: 2401747fdb373ec6572121b286ee82e852723a2843499c458412edf7a430af0e
     name: cm-ui-chart
@@ -649,7 +649,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 1.0.16
-    created: "2025-10-12T09:36:58.230638646Z"
+    created: "2025-10-13T09:41:38.38680154Z"
     description: A Helm chart for Kubernetes
     digest: e69235dd725d10b9cf39ba1c3f3ebdecca0659c1a937374447bf9bfd16dadf91
     name: cm-ui-chart
@@ -659,7 +659,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 1.0.15
-    created: "2025-10-12T09:36:58.230315171Z"
+    created: "2025-10-13T09:41:38.386510707Z"
     description: A Helm chart for Kubernetes
     digest: 5a38ee0a5bdab8f237a9fd60b02c176ae19710a1fa4b8f37dd712376362fde1c
     name: cm-ui-chart
@@ -669,7 +669,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2025-10-12T09:36:58.230030398Z"
+    created: "2025-10-13T09:41:38.386207791Z"
     description: A Helm chart for Kubernetes
     digest: d485c4991cdb4a0035cef94d90d6d088f5aeedef95e9488ef2aa9ae0db770f12
     name: cm-ui-chart
@@ -679,7 +679,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.0.13
-    created: "2025-10-12T09:36:58.229709307Z"
+    created: "2025-10-13T09:41:38.385898012Z"
     description: A Helm chart for Kubernetes
     digest: e9af4155eddf83427fc76729f26c78c554930eecf777542f64b40c7f152a27fa
     name: cm-ui-chart
@@ -689,7 +689,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2025-10-12T09:36:58.229409195Z"
+    created: "2025-10-13T09:41:38.385603502Z"
     description: A Helm chart for Kubernetes
     digest: 3f5c62000942eea33fabb2ef28e9dec74d83136b04e8e3ad0dd3c8c041ed7a02
     name: cm-ui-chart
@@ -699,7 +699,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2025-10-12T09:36:58.229109815Z"
+    created: "2025-10-13T09:41:38.385307099Z"
     description: A Helm chart for Kubernetes
     digest: d7bca9178ceea6aa7a4f66d30cc68c0267e07c4afe55905c0d2e46692ccef8a1
     name: cm-ui-chart
@@ -709,7 +709,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2025-10-12T09:36:58.228819361Z"
+    created: "2025-10-13T09:41:38.384990397Z"
     description: A Helm chart for Kubernetes
     digest: 7689fe99b2d34ceb7aac5d2bc88dcda6ee237f54ed27797b1526255a997e014c
     name: cm-ui-chart
@@ -719,7 +719,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2025-10-12T09:36:58.237313921Z"
+    created: "2025-10-13T09:41:38.393757812Z"
     description: A Helm chart for Kubernetes
     digest: 62919c2949abc544048e9bd5bf22c555ee5a7715a410d1f3c62fd24d0a7935cd
     name: cm-ui-chart
@@ -729,7 +729,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2025-10-12T09:36:58.23703537Z"
+    created: "2025-10-13T09:41:38.393468412Z"
     description: A Helm chart for Kubernetes
     digest: cdfe4066c5eec61e866d1c6599ee348342115698568b860591303fdf3e66bcb1
     name: cm-ui-chart
@@ -739,7 +739,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2025-10-12T09:36:58.236752951Z"
+    created: "2025-10-13T09:41:38.393168322Z"
     description: A Helm chart for Kubernetes
     digest: e0b4ab0e191affd075d30fbdcaa2570d20d5bbf10e087f5f1499878099924308
     name: cm-ui-chart
@@ -749,7 +749,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2025-10-12T09:36:58.236458711Z"
+    created: "2025-10-13T09:41:38.392829188Z"
     description: A Helm chart for Kubernetes
     digest: 29a45bcbf75637f1f9e585270e98a34b4332534bfd84c5c1d423197f3c9ff068
     name: cm-ui-chart
@@ -759,7 +759,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2025-10-12T09:36:58.236113084Z"
+    created: "2025-10-13T09:41:38.392539016Z"
     description: A Helm chart for Kubernetes
     digest: 1e78917b4fec1edb7a9d00d44d49d27729a60791057aa901d4326da5a199ce9e
     name: cm-ui-chart
@@ -769,7 +769,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2025-10-12T09:36:58.2358228Z"
+    created: "2025-10-13T09:41:38.392237493Z"
     description: A Helm chart for Kubernetes
     digest: 047865ea20154887431fd4464291a8a31cb7eb57bd5841c278559a29e8d51c6e
     name: cm-ui-chart
@@ -779,7 +779,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2025-10-12T09:36:58.235531195Z"
+    created: "2025-10-13T09:41:38.391913528Z"
     description: A Helm chart for Kubernetes
     digest: cae0d27a53e222176bedaa88481aaed0563db869684532033a93e695726a9851
     name: cm-ui-chart
@@ -789,7 +789,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-10-12T09:36:58.232083942Z"
+    created: "2025-10-13T09:41:38.388233815Z"
     description: A Helm chart for Kubernetes
     digest: 415d04f9eb1c8217801da60011eaf8f2f8afb7898d64c8fffad4c0db656847fa
     name: cm-ui-chart
@@ -799,7 +799,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-10-12T09:36:58.228532604Z"
+    created: "2025-10-13T09:41:38.384693082Z"
     description: A Helm chart for Kubernetes
     digest: 34699fd27886616917fb63fdd7514455d6b87fe2cad8e600cd40beb4409ce174
     name: cm-ui-chart
@@ -809,12 +809,12 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-10-12T09:36:58.228226301Z"
+    created: "2025-10-13T09:41:38.384393583Z"
     description: A Helm chart for Kubernetes
-    digest: a23bd60e5c24bd8a19e7198a2203cb96212c3c2be42fae88ba427323f23e6b3f
+    digest: cdae54935330894caac5aca7ca5ee647679af1cb0ad7c0670f884b92905195dc
     name: cm-ui-chart
     type: application
     urls:
     - cm-ui-chart/cm-ui-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-10-12T09:36:58.166652603Z"
+generated: "2025-10-13T09:41:38.32205973Z"
